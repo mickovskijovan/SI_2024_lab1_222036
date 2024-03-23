@@ -1,0 +1,35 @@
+commit 7e955483e7dddb789195c976a02adbd3dcfea004 (HEAD -> master, origin/master, bug2)
+Author: Jovan Mickovski <mickovskijovan@gmail.com>
+Date:   Sat Mar 23 16:20:46 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 74e374be27f477847af2ec35e7297359eea80b87
+Author: Jovan Mickovski <mickovskijovan@gmail.com>
+Date:   Sat Mar 23 15:30:25 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 19354525e762c421637fb7d648cc8654d682de45 (bug1)
+Author: Jovan Mickovski <mickovskijovan@gmail.com>
+Date:   Sat Mar 23 15:38:21 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 2c425f4d2a3a359308b2b91bcf20f154b3dbd5fb
+Author: Jovan Mickovski <mickovskijovan@gmail.com>
+Date:   Sat Mar 23 15:23:23 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 4e83c1bbe49414b2d9f2cf917b2048339653981a
+Author: Jovan Mickovski <mickovskijovan@gmail.com>
+Date:   Sat Mar 23 13:42:44 2024 +0100
+
+    Add starter code
+
+commit 3d38253bb258d3521d484d8bc74309356e7f92dd
+Author: Jovan Mickovski <mickovskijovan@gmail.com>
+Date:   Sat Mar 23 13:34:25 2024 +0100
+
+    Initial commit
